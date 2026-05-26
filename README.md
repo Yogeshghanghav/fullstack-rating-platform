@@ -278,28 +278,23 @@ Runs on: `http://localhost:5173`
 
 # Screenshots
 
-```text
-1_login.png
-<img width="1366" height="734" alt="image" src="https://github.com/user-attachments/assets/35f739e1-5157-48f2-9e86-080402996924" />
+### Login Page
+![Login](assets/1_login.png)
 
-2_register.png
-<img width="1362" height="730" alt="image" src="https://github.com/user-attachments/assets/db8cea8f-89d8-4c7f-ab59-8aa0348730af" />
+### Register Page
+![Register](assets/2_register.png)
 
-3_admin_dashboard.png
-<img width="1366" height="735" alt="image" src="https://github.com/user-attachments/assets/c30de6d8-a9fe-4663-b883-868f2d95bbdc" />
+### Admin Dashboard
+![Admin Dashboard](assets/3_admin_dashboard.png)
 
-4_store_listing.png
-<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/3c6b2299-16fa-4d43-bf6c-13804a9c1a59" />
+### Store Listing
+![Store Listing](assets/4_store_listing.png)
 
-5_submit_rating.png
-<img width="1364" height="729" alt="image" src="https://github.com/user-attachments/assets/d820ec0f-e849-4f46-8da8-d734b758bf66" />
-<img width="1366" height="740" alt="image" src="https://github.com/user-attachments/assets/673204b8-d38e-4422-8243-2a12cb74746c" />
+### Submit Rating
+![Submit Rating](assets/5_submit_rating.png)
 
-
-6_store_owner_dashboard.png
-<img width="1366" height="718" alt="image" src="https://github.com/user-attachments/assets/8f3deb08-2895-4113-9908-4953a2d564c0" />
-
-```
+### Store Owner Dashboard
+![Store Owner Dashboard](assets/6_store_owner_dashboard.png)
 
 ---
 

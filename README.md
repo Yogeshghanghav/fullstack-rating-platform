@@ -279,22 +279,22 @@ Runs on: `http://localhost:5173`
 # Screenshots
 
 ### Login Page
-![Login](assets/1_login.png)
+![Login](frontend/src/assets/login.png)
 
 ### Register Page
-![Register](assets/2_register.png)
+![Register](frontend/src/assets/register.png)
 
 ### Admin Dashboard
-![Admin Dashboard](assets/3_admin_dashboard.png)
+![Admin Dashboard](frontend/src/assets/admin_dashboard.png)
 
 ### Store Listing
-![Store Listing](assets/4_store_listing.png)
+![Store Listing](frontend/src/assets/store_listing.png)
 
 ### Submit Rating
-![Submit Rating](assets/5_submit_rating.png)
+![Submit Rating](frontend/src/assets/submit_rating.png)
 
 ### Store Owner Dashboard
-![Store Owner Dashboard](assets/6_store_owner_dashboard.png)
+![Store Owner Dashboard](frontend/src/assets/store_owner_dashboard.png)
 
 ---
 
